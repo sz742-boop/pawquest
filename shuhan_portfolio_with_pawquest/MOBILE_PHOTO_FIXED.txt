@@ -1,1 +1,0 @@
-Mobile photo fix applied: the CSS rule that hid .hero-right on screens under 900px was changed so the profile photo card now appears on phones.
