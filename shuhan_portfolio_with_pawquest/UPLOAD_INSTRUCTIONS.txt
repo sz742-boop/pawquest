@@ -1,0 +1,18 @@
+上传说明 / Upload Instructions
+
+这个版本已经做好：
+1. 首页右边头像位置已经换成你上传的照片：assets/profile.jpg
+2. Projects 最后一项已经加入 PawQuest 项目卡片
+3. 首页按钮和 Projects 按钮都可以打开 PawQuest
+4. PawQuest app 已经放在 pawquest/ 文件夹里，所以按钮链接使用相对路径：pawquest/
+
+推荐上传方式：
+- 把整个 shuhan_portfolio_with_pawquest 文件夹上传到你的 portfolio 仓库中。
+- 上传后链接大概是：
+  https://sz742-boop.github.io/portfolio/shuhan_portfolio_with_pawquest/
+
+如果你想覆盖旧网站：
+- 打开旧的 shuhan_portfolio_with_photo 文件夹
+- 替换里面的 index.html
+- 上传 assets/profile.jpg
+- 上传整个 pawquest 文件夹
